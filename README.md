@@ -12,6 +12,11 @@ I made this chart to mind map my process of learning software design and archite
 
 If you think that these can be improved in anyway, please do suggest.
 
+## Summary
+
+![](https://user-images.githubusercontent.com/6892666/65823334-2e982880-e222-11e9-8994-aa58b02dbc4a.png)
+
+## Map
 ![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65823251-aa917100-e220-11e9-8d20-7a239ff4ff1c.png)
 
 ## 🚦 Wrap Up
