@@ -10,4 +10,4 @@ I made this chart to mind map my process of learning software design and archite
 
 If you think that these can be improved in anyway, please do suggest.
 
-![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65823200-d8c28100-e21f-11e9-97f7-b8e759873744.png)
+![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65823251-aa917100-e220-11e9-8d20-7a239ff4ff1c.png)
