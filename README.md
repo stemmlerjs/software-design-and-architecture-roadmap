@@ -13,3 +13,14 @@ I made this chart to mind map my process of learning software design and archite
 If you think that these can be improved in anyway, please do suggest.
 
 ![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65823251-aa917100-e220-11e9-8d20-7a239ff4ff1c.png)
+
+## 🚦 Wrap Up
+
+If you have an idea to improve the map, feel free to discuss it in the issues.
+
+## 🙌 Contribution
+
+- Open pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/stemmlerjs.svg?style=social&label=Follow%20stemmlerjs)](https://twitter.com/stemmlerjs)
