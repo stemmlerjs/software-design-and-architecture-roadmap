@@ -14,7 +14,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ## Summary
 
-![](https://user-images.githubusercontent.com/6892666/65823334-2e982880-e222-11e9-8994-aa58b02dbc4a.png)
+![](https://user-images.githubusercontent.com/6892666/65833409-267dce80-e29e-11e9-8391-59afda0b4fcf.png)
 
 ## Map
 ![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65833388-fb937a80-e29d-11e9-9047-37d853dd0751.png)
