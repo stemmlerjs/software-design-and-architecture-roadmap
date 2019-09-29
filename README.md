@@ -1,6 +1,6 @@
 # The Full-Stack Software Design and Architecture Roadmap
 
-![](https://user-images.githubusercontent.com/6892666/65823266-052acd00-e221-11e9-83ad-6743f41f67e2.png)
+![](https://user-images.githubusercontent.com/6892666/65833564-b3755780-e29f-11e9-8fc4-77873e1d5f97.png)
 
 > How to learn software design and architecture
 
@@ -14,10 +14,10 @@ If you think that these can be improved in anyway, please do suggest.
 
 ## Summary
 
-![](https://user-images.githubusercontent.com/6892666/65833409-267dce80-e29e-11e9-8391-59afda0b4fcf.png)
+![](https://user-images.githubusercontent.com/6892666/65833569-bb34fc00-e29f-11e9-8516-79cbd9f8f07b.png)
 
 ## Map
-![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65833388-fb937a80-e29d-11e9-9047-37d853dd0751.png)
+![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65833558-9d679700-e29f-11e9-85cd-251e2a1f9ede.png)
 
 ## 🚦 Wrap Up
 
