@@ -10,7 +10,7 @@ As a JavaScript turned strictly TypeScript developer, I realized that software d
 
 I made this chart to mind map my process of learning software design and architecture over the past year; sharing them here so that the community can benefit from it as well.
 
-> I wrote an article titled "How to Learn Software Design and Architecture" where I dive into more details on each part of the stack [here](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)! Check it out.
+> I wrote an article titled "[How to Learn Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)" where I dive into more details on each part of the stack [here](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)! Check it out.
 
 If you think that these can be improved in anyway, please do suggest.
 
