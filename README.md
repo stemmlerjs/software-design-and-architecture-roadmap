@@ -21,6 +21,11 @@ If you think that these can be improved in anyway, please do suggest.
 ## Map
 ![Frame 7 2 (1)](https://user-images.githubusercontent.com/6892666/65896069-834eb700-e37a-11e9-95be-7ae2300d5d50.png)
 
+## Software Architect Roadmaps
+
+For more details on the road to become a software architect, check out the roadmap below:
+- [Software Architect Roadmap](https://roadmap.sh/software-architect)
+
 ## 🚦 Wrap Up
 
 If you have an idea to improve the map, feel free to discuss it in the issues.
